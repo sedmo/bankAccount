@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1510968047 source:c:\users\stephan\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\account.cpp
+	<string>
+	<iostream>
+	"Account.h"
+	"Transaction.h"
+
+1510968047 c:\users\stephan\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\account.h
+	"Depositor.h"
+	"Transaction.h"
+	<string>
+
+1510669439 c:\users\stephan\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\depositor.h
+	"Name.h"
+
+1510532046 c:\users\stephan\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\name.h
+	<string>
+
+1510967897 c:\users\stephan\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\transaction.h
+	<string>
+
+1510962054 source:c:\users\stephan\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\bank.cpp
+	"Bank.h"
+	<string>
+
+1510839248 c:\users\stephan\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\bank.h
+	<iostream>
+	<string>
+	"Account.h"
+
+1510669811 source:c:\users\stephan\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\depositor.cpp
+	"Depositor.h"
+
+1510589672 source:c:\users\stephan\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\name.cpp
+	"Name.h"
+
+1510967898 source:c:\users\stephan\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\transaction.cpp
+	"Transaction.h"
+	<string>
+
+1510969867 source:c:\users\stephan\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	"Bank.h"
+
+1511025519 source:c:\users\ledmonson2\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\account.cpp
+	<string>
+	<iostream>
+	"Account.h"
+	"Transaction.h"
+
+1511025518 c:\users\ledmonson2\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\account.h
+	"Depositor.h"
+	"Transaction.h"
+	<string>
+
+1511025518 c:\users\ledmonson2\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\depositor.h
+	"Name.h"
+
+1511025519 c:\users\ledmonson2\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\name.h
+	<string>
+
+1511025519 c:\users\ledmonson2\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\transaction.h
+	<string>
+
+1511040491 source:c:\users\ledmonson2\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\bank.cpp
+	"Bank.h"
+	<string>
+
+1511115708 c:\users\ledmonson2\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\bank.h
+	<iostream>
+	<string>
+	"Account.h"
+
+1511025518 source:c:\users\ledmonson2\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\depositor.cpp
+	"Depositor.h"
+
+1511025519 source:c:\users\ledmonson2\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\name.cpp
+	"Name.h"
+
+1511025518 source:c:\users\ledmonson2\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\transaction.cpp
+	"Transaction.h"
+	<string>
+
+1511113514 source:c:\users\ledmonson2\desktop\cisc 3110\hw5_bank_accounts_dynamic_memory_allocation\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	"Bank.h"
+
+1517685779 source:c:\users\stephan\desktop\bank_accounts_dynamic_memory_allocation-20180203t192201z-001\hw5_bank_accounts_dynamic_memory_allocation\account.cpp
+	<string>
+	<iostream>
+	"Account.h"
+	"Transaction.h"
+
+1517685780 c:\users\stephan\desktop\bank_accounts_dynamic_memory_allocation-20180203t192201z-001\hw5_bank_accounts_dynamic_memory_allocation\account.h
+	"Depositor.h"
+	"Transaction.h"
+	<string>
+
+1517685780 c:\users\stephan\desktop\bank_accounts_dynamic_memory_allocation-20180203t192201z-001\hw5_bank_accounts_dynamic_memory_allocation\depositor.h
+	"Name.h"
+
+1517685780 c:\users\stephan\desktop\bank_accounts_dynamic_memory_allocation-20180203t192201z-001\hw5_bank_accounts_dynamic_memory_allocation\name.h
+	<string>
+
+1517685779 c:\users\stephan\desktop\bank_accounts_dynamic_memory_allocation-20180203t192201z-001\hw5_bank_accounts_dynamic_memory_allocation\transaction.h
+	<string>
+
+1517685780 source:c:\users\stephan\desktop\bank_accounts_dynamic_memory_allocation-20180203t192201z-001\hw5_bank_accounts_dynamic_memory_allocation\bank.cpp
+	"Bank.h"
+	<string>
+
+1517685780 c:\users\stephan\desktop\bank_accounts_dynamic_memory_allocation-20180203t192201z-001\hw5_bank_accounts_dynamic_memory_allocation\bank.h
+	<iostream>
+	<string>
+	"Account.h"
+
+1517685779 source:c:\users\stephan\desktop\bank_accounts_dynamic_memory_allocation-20180203t192201z-001\hw5_bank_accounts_dynamic_memory_allocation\depositor.cpp
+	"Depositor.h"
+
+1517685779 source:c:\users\stephan\desktop\bank_accounts_dynamic_memory_allocation-20180203t192201z-001\hw5_bank_accounts_dynamic_memory_allocation\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	"Bank.h"
+
+1517685780 source:c:\users\stephan\desktop\bank_accounts_dynamic_memory_allocation-20180203t192201z-001\hw5_bank_accounts_dynamic_memory_allocation\name.cpp
+	"Name.h"
+
+1517685779 source:c:\users\stephan\desktop\bank_accounts_dynamic_memory_allocation-20180203t192201z-001\hw5_bank_accounts_dynamic_memory_allocation\transaction.cpp
+	"Transaction.h"
+	<string>
+

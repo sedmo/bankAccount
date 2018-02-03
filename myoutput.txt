@@ -1,0 +1,55 @@
+
+
+			 Database of Bank Accounts
+
+Name
+Last	First	SS#      	Account#	Account Type	Balance		Account Status
+Doe	John	123654879	5611    	CD      	16345.87	open
+Gold	Jane	951357842	1313    	Savings 	12456.78	open
+Dillon	Tom	883159074	3465    	Checkings	864.32  	open
+Bush	Jill	654238461	4534    	Savings 	5664.00 	open
+Monroe	James	465324312	5556    	Checkings	754.32  	open
+
+
+			 Database of Bank Accounts
+
+Name
+Last	First	SS#      	Account#	Account Type	Balance		Account Status
+Doe	John	123654879	5611    	CD      	16345.87	open
+*******************************	John's Transaction History	*******************************
+    Trans type   Trans amnt 
+#1: Create       16345.87
+
+
+Name
+Last	First	SS#      	Account#	Account Type	Balance		Account Status
+Gold	Jane	951357842	1313    	Savings 	12456.78	open
+*******************************	Jane's Transaction History	*******************************
+    Trans type   Trans amnt 
+#1: Create       12456.78
+
+
+Name
+Last	First	SS#      	Account#	Account Type	Balance		Account Status
+Dillon	Tom	883159074	3465    	Checkings	864.32  	open
+*******************************	Tom's Transaction History	*******************************
+    Trans type   Trans amnt 
+#1: Create       864.32
+
+
+Name
+Last	First	SS#      	Account#	Account Type	Balance		Account Status
+Bush	Jill	654238461	4534    	Savings 	5664.00 	open
+*******************************	Jill's Transaction History	*******************************
+    Trans type   Trans amnt 
+#1: Create       5664.00
+
+
+Name
+Last	First	SS#      	Account#	Account Type	Balance		Account Status
+Monroe	James	465324312	5556    	Checkings	754.32  	open
+*******************************	James's Transaction History	*******************************
+    Trans type   Trans amnt 
+#1: Create       754.32
+
+
